@@ -4,31 +4,412 @@ title: Calendar
 uid: 9abd2a68-189a-dc84-3c89-f7702fbe65d5
 ---
 
-| SES # | Topics | Key Dates |
-| --- | --- | --- |
-| 1 | _Course Introduction_  {{< br >}}  {{< br >}}\- Review of Syllabus and Subject Requirements  {{< br >}}\- Introduction to Airline Planning Processes and Systems |  |
-| 2 | _Airline Economics Review_  {{< br >}}  {{< br >}}\- Demand and Market Share Models  {{< br >}}\- Differential Pricing and Revenues |  |
-| 3 | _Operating Costs and Productivity_  {{< br >}}  {{< br >}}\- Components of Airline Operating Costs  {{< br >}}\- Measures of Aircraft and Labor Productivity | Assignment 1 out |
-| 4 | _Load and Spill Analysis_  {{< br >}}  {{< br >}}\- Demand Stochasticity and Flight Leg "Spill Models"  {{< br >}}\- Estimation of Unconstrained Demand |  |
-| 5 | _Airline Schedule Development_  {{< br >}}  {{< br >}}\- Network Supply Definitions and Concepts  {{< br >}}\- Timetable Development Issues and Constraints |  |
-| 6 | _Passenger Choice Models_  {{< br >}}  {{< br >}}\- Decision Window Market Share Model  {{< br >}}\- Consumer Choice of Path/Fare Options |  |
-| 7 | _Introduction to ePODS Airline Management Game_  {{< br >}}  {{< br >}}\- Baseline Networks and Schedules  {{< br >}}\- Overview of Inputs and Outputs | Assignment 1 due |
-| 8 | _ePODS Work Session_  {{< br >}}  {{< br >}}\- Present and Discuss Baseline ePODS Results  {{< br >}}\- Software Installation and Instructions |  |
-| 9 | _Fleet Assignment Optimization (Prof. Barnhart)_  {{< br >}}  {{< br >}}\- Incorporation of Spill and Recapture Rates  {{< br >}}\- Leg Independent vs. Itinerary-based Approaches | Assignment 2 out |
-| 10 | _ePODS Work Session_  {{< br >}}  {{< br >}}\- Presentation of Round 1 Input Strategies  {{< br >}}\- Results: Initial Fleet Assignment | Round 1 Game Inputs due |
-| 11 | _Route Planning and Network Strategies_  {{< br >}}  {{< br >}}\- Route Evaluation in Hub Networks  {{< br >}}\- Route Profitability Estimation Issues |  |
-| 12 | _ePODS Work Session_  {{< br >}}  {{< br >}}\- Presentation of Round 2 Input Strategies  {{< br >}}\- Results: Hub Schedule Shifts and Fleet Assignment | Round 2 Game Inputs due |
-| 13 | _Scheduling and Operational Constraints_  {{< br >}}  {{< br >}}\- Aircraft Rotations and Irregular Operations  {{< br >}}\- Demand Driven Dispatch - Flexible Fleet Assignment | Assignment 2 due |
-| 14 | _ePODS Work Session_  {{< br >}}  {{< br >}}\- Presentation of Round 3 Input Strategies  {{< br >}}\- Results: Route Selection and Evaluation | Round 3 Game Inputs due |
-| 15 | _Mid-Term Exam (In Class)_ |  |
-| 16 | _Airline Fleet Planning Issues_  {{< br >}}  {{< br >}}\- Commercial Aircraft Categories and Characteristics  {{< br >}}\- Technical and Performance Characteristics  {{< br >}}\- Implications for Fleet Changes in ePODS |  |
-| 17 | _AMG Work Session_  {{< br >}}  {{< br >}}\- Presentation of Round 4 Input Strategies  {{< br >}}\- Results: Impacts of Fleet Changes | Round 4 Game Inputs due |
-| 18 | _Revenue Management Concept and Models_  {{< br >}}  {{< br >}}\- Introduction to Seat Inventory Control Process  {{< br >}}\- EMSR Flight Leg Optimization |  |
-| 19 | _Overbooking Methods_  {{< br >}}  {{< br >}}\- Overview of Theory and Current Practice  {{< br >}}\- Evolution of Probabilistic/Cost-Based Models | Assignment 3 out |
-| 20 | _O-D/Network Seat Inventory Control_  {{< br >}}  {{< br >}}\- Network Optimization Models  {{< br >}}\- O-D Control Development in Practice |  |
-| 21 | _ePODS Work Session_  {{< br >}}  {{< br >}}\- Presentation of Round 5 Input Strategies  {{< br >}}\- Results: Full-up Scheduling and Route Selection | Round 5 Game Inputs due |
-| 22 |  {{< br >}}{{< br >}} _Open Session_ {{< br >}}{{< br >}} \- Guest Lecture on Pricing/RM {{< br >}}{{< br >}}  |  |
-| 23 | _Airline Pricing Structures and Strategies_  {{< br >}}  {{< br >}}\- Differential Pricing and Fare Restrictions  {{< br >}}\- Implications for Price Changes in ePODS | Assignment 3 due |
-| 24 | _Airline Revenue Management Systems_  {{< br >}}  {{< br >}}\- Evolution of Capabilities and Current Status  {{< br >}}\- Relationships to CRS and Distribution |  |
-| 25 | _ePODS Work Session_  {{< br >}}  {{< br >}}\- Presentation of Round 6 Input Strategies  {{< br >}}\- Results: Limited Fare Modifications | Round 6 Game Inputs due |
-| 26 | _Summary: Airline Management Challenges_  {{< br >}}  {{< br >}}\- Discussion of ePODS Lessons  {{< br >}}\- Relationship to Current Airline Industry Issues |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+_Course Introduction_  
+  
+\- Review of Syllabus and Subject Requirements  
+\- Introduction to Airline Planning Processes and Systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Airline Economics Review_  
+  
+\- Demand and Market Share Models  
+\- Differential Pricing and Revenues
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Operating Costs and Productivity_  
+  
+\- Components of Airline Operating Costs  
+\- Measures of Aircraft and Labor Productivity
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Load and Spill Analysis_  
+  
+\- Demand Stochasticity and Flight Leg "Spill Models"  
+\- Estimation of Unconstrained Demand
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Airline Schedule Development_  
+  
+\- Network Supply Definitions and Concepts  
+\- Timetable Development Issues and Constraints
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Passenger Choice Models_  
+  
+\- Decision Window Market Share Model  
+\- Consumer Choice of Path/Fare Options
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Introduction to ePODS Airline Management Game_  
+  
+\- Baseline Networks and Schedules  
+\- Overview of Inputs and Outputs
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_ePODS Work Session_  
+  
+\- Present and Discuss Baseline ePODS Results  
+\- Software Installation and Instructions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Fleet Assignment Optimization (Prof. Barnhart)_  
+  
+\- Incorporation of Spill and Recapture Rates  
+\- Leg Independent vs. Itinerary-based Approaches
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_ePODS Work Session_  
+  
+\- Presentation of Round 1 Input Strategies  
+\- Results: Initial Fleet Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+Round 1 Game Inputs due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Route Planning and Network Strategies_  
+  
+\- Route Evaluation in Hub Networks  
+\- Route Profitability Estimation Issues
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_ePODS Work Session_  
+  
+\- Presentation of Round 2 Input Strategies  
+\- Results: Hub Schedule Shifts and Fleet Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+Round 2 Game Inputs due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Scheduling and Operational Constraints_  
+  
+\- Aircraft Rotations and Irregular Operations  
+\- Demand Driven Dispatch - Flexible Fleet Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_ePODS Work Session_  
+  
+\- Presentation of Round 3 Input Strategies  
+\- Results: Route Selection and Evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+Round 3 Game Inputs due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Mid-Term Exam (In Class)_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Airline Fleet Planning Issues_  
+  
+\- Commercial Aircraft Categories and Characteristics  
+\- Technical and Performance Characteristics  
+\- Implications for Fleet Changes in ePODS
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_AMG Work Session_  
+  
+\- Presentation of Round 4 Input Strategies  
+\- Results: Impacts of Fleet Changes
+{{< tdclose >}}
+{{< tdopen >}}
+Round 4 Game Inputs due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_Revenue Management Concept and Models_  
+  
+\- Introduction to Seat Inventory Control Process  
+\- EMSR Flight Leg Optimization
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_Overbooking Methods_  
+  
+\- Overview of Theory and Current Practice  
+\- Evolution of Probabilistic/Cost-Based Models
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_O-D/Network Seat Inventory Control_  
+  
+\- Network Optimization Models  
+\- O-D Control Development in Practice
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_ePODS Work Session_  
+  
+\- Presentation of Round 5 Input Strategies  
+\- Results: Full-up Scheduling and Route Selection
+{{< tdclose >}}
+{{< tdopen >}}
+Round 5 Game Inputs due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Open Session_
+
+\- Guest Lecture on Pricing/RM
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_Airline Pricing Structures and Strategies_  
+  
+\- Differential Pricing and Fare Restrictions  
+\- Implications for Price Changes in ePODS
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Airline Revenue Management Systems_  
+  
+\- Evolution of Capabilities and Current Status  
+\- Relationships to CRS and Distribution
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+_ePODS Work Session_  
+  
+\- Presentation of Round 6 Input Strategies  
+\- Results: Limited Fare Modifications
+{{< tdclose >}}
+{{< tdopen >}}
+Round 6 Game Inputs due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_Summary: Airline Management Challenges_  
+  
+\- Discussion of ePODS Lessons  
+\- Relationship to Current Airline Industry Issues
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
