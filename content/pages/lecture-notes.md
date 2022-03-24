@@ -78,7 +78,7 @@ _Load and Spill Analysis_
 \- Estimation of Unconstrained Demand
 {{< tdclose >}}
 {{< tdopen >}}
-Load Factor Analysis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lect4a)) (Courtesy of Boeing. Used with permission.)  
+Load Factor Analysis ([PDF]({{< baseurl >}}/resources/lect4a)) (Courtesy of Boeing. Used with permission.)  
   
 Airline Demand Analysis and Spill Modeling ([PDF]({{< baseurl >}}/resources/lect4b))
 {{< tdclose >}}
@@ -112,7 +112,7 @@ _Passenger Choice Models_
 {{< tdopen >}}
 Introduction to PODS Passenger Choice Models ([PDF]({{< baseurl >}}/resources/lect6a))  
   
-Decision Window Model (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lect6b)) (Courtesy of Boeing. Used with permission.)
+Decision Window Model ([PDF]({{< baseurl >}}/resources/lect6b)) (Courtesy of Boeing. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +217,7 @@ _Scheduling and Operational Constraints_
 \- Demand Driven Dispatch - Flexible Fleet Assignment
 {{< tdclose >}}
 {{< tdopen >}}
-Demand Driven Dispatch (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/boeingddd1))
+Demand Driven Dispatch ([PDF]({{< baseurl >}}/resources/boeingddd1))
 {{< tdclose >}}
 
 {{< trclose >}}

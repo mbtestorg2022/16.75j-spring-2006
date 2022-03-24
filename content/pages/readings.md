@@ -21,4 +21,4 @@ Belobaba, P. "Airline Network Revenue Management: Recent Developments and State 
 
 Boyd, E. Andrew, and Royce Kallesen. "[The Science of Revenue Management When Passengers Purchase the Lowest Available Fare](https://link.springer.com/article/10.1057/palgrave.rpm.5170104) ." _Journal of Revenue and Pricing Management_ 3, no. 2 (2004): 171-177.
 
-McGill, Jeffrey I., and Garrett J. Van Ryzin. "Revenue Management: Research Overview and Prospects." _Transportation Science_ 33, no. 2 (1999): 233-256. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www0.gsb.columbia.edu/faculty/cmaglaras/B9801-001/RMreview.pdf))
+McGill, Jeffrey I., and Garrett J. Van Ryzin. "Revenue Management: Research Overview and Prospects." _Transportation Science_ 33, no. 2 (1999): 233-256. ([PDF](https://www0.gsb.columbia.edu/faculty/cmaglaras/B9801-001/RMreview.pdf))
