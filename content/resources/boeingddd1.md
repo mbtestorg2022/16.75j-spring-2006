@@ -4,6 +4,7 @@ description: This resource includes information on the problem, its solution, bo
   D3 simulator, and the d3 in operation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-75j-airline-management-spring-2006/2292410d1350352326a963e5b83c5e06_boeingddd1.pdf
 file_type: application/pdf
+parent_uid: ebe3197b-865f-b38c-4c71-e92fd68919d3
 resourcetype: Document
 title: boeingddd1.pdf
 uid: 2292410d-1350-3523-26a9-63e5b83c5e06

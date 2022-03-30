@@ -5,6 +5,7 @@ description: This resource includes information on problem definition and object
   extension of fleet assignment to schedule design, and conclusions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-75j-airline-management-spring-2006/14bc99dfa4f40338a01b4b7dff5b83c1_lect9.pdf
 file_type: application/pdf
+parent_uid: ebe3197b-865f-b38c-4c71-e92fd68919d3
 resourcetype: Document
 title: lect9.pdf
 uid: 14bc99df-a4f4-0338-a01b-4b7dff5b83c1

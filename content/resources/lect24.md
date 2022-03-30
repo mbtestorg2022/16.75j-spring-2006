@@ -5,6 +5,7 @@ description: This resource includes information on summary of results from over 
   on many factors.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-75j-airline-management-spring-2006/9998cb453ec6ac724bc938320809a07b_lect24.pdf
 file_type: application/pdf
+parent_uid: ebe3197b-865f-b38c-4c71-e92fd68919d3
 resourcetype: Document
 title: lect24.pdf
 uid: 9998cb45-3ec6-ac72-4bc9-38320809a07b

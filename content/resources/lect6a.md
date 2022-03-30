@@ -5,6 +5,7 @@ description: This resource includes information on multiple iterations (samples)
   into time frames.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-75j-airline-management-spring-2006/04374703df2aaeeb5f89950400d75757_lect6a.pdf
 file_type: application/pdf
+parent_uid: ebe3197b-865f-b38c-4c71-e92fd68919d3
 resourcetype: Document
 title: lect6a.pdf
 uid: 04374703-df2a-aeeb-5f89-950400d75757

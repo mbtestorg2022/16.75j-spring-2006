@@ -5,6 +5,7 @@ description: This resource includes information on overbooking terminology and r
   and customer service and goodwill issues.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-75j-airline-management-spring-2006/412ade9637ece485295fed96ec8ba876_lect19.pdf
 file_type: application/pdf
+parent_uid: ebe3197b-865f-b38c-4c71-e92fd68919d3
 resourcetype: Document
 title: lect19.pdf
 uid: 412ade96-37ec-e485-295f-ed96ec8ba876

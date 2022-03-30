@@ -5,6 +5,7 @@ description: This resource includes information on fleet planning as part of str
   aircraft acquisition.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-75j-airline-management-spring-2006/183208a508ea527ed30bea645e74ff3b_lect16.pdf
 file_type: application/pdf
+parent_uid: ebe3197b-865f-b38c-4c71-e92fd68919d3
 resourcetype: Document
 title: lect16.pdf
 uid: 183208a5-08ea-527e-d30b-ea645e74ff3b
